@@ -39,7 +39,7 @@ project-name/
 │
 ├── main.py          # Main script
 ├── requirements.txt # Project dependencies
-├── README.md        # Project documentation
+├── README2.md        # Project documentation
 └── ...
 ```
 
